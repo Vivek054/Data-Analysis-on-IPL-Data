@@ -4,4 +4,6 @@
 
 The Dataset consists of IPL Data from 2008 to 2019.
 
-We can do EDA(Exploratory Data Analysis) using Sweetviz Library you can find the 
+We can do EDA(Exploratory Data Analysis) using Sweetviz Library you can find the Sweetviz files in the repository and code for this in the code file.
+
+
